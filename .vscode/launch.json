@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GoldenBlueHotelApplication<GoldenBlueHotel>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "Esfe.GoldenBlueHotel.GoldenBlueHotelApplication",
+            "projectName": "GoldenBlueHotel",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
